@@ -13,8 +13,12 @@ To better understand the relationships between the variables in the MTcars datas
 
 ## Files:
 
-MTcars_EDA.Rmd: R Markdown file containing the code for the EDA and data visualization.
+Eda_in_python.ipynb: Python Notebook file containing the code for the EDA and data visualization.
 
 ## Conclusion:
 
 The EDA and data visualization performed on the MTcars dataset provide valuable insights into the characteristics of the cars included in the dataset. These insights can be used to inform further analysis or to guide decision-making in the automotive industry.
+
+
+#### Thank You!
+Do let know your feedback or if you find it useful.
