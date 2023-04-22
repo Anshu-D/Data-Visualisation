@@ -13,7 +13,7 @@ To better understand the relationships between the variables in the MTcars datas
 
 ## Files:
 
-Eda_in_python.ipynb: Python Notebook file containing the code for the EDA and data visualization.
+ [Eda_in_python.ipynb](https://github.com/Anshu-D/Data-Visualisation/blob/main/Eda-in-python.ipynb): Python Notebook file containing the code for the EDA and data visualization.
 
 ## Conclusion:
 
